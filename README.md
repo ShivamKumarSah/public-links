@@ -3,3 +3,4 @@
 ![TinkerVault Banner](./Visual_Laravel_Workflow.gif)
 ![TinkerVault Banner](./database_explorer.gif)
 ![TinkerVault Banner](./artisan_command_runner.gif)
+![TinkerVault Banner](./encrypt_decrypt_hash.gif)
