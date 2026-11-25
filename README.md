@@ -4,3 +4,4 @@
 ![TinkerVault Banner](./database_explorer.gif)
 ![TinkerVault Banner](./artisan_command_runner.gif)
 ![TinkerVault Banner](./encrypt_decrypt_hash.gif)
+![TinkerVault Banner](./forgetheme-showcase.gif)
